@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ncastaneda\\Projects\\SchoolProjectASPNET\\SchoolProjectASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A22A6C4C-DFFE-4571-8F20-39753F146E93}|SchoolProjectASPNET.csproj|c:\\temp\\ncastaneda\\projects\\schoolprojectaspnet\\schoolprojectaspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A22A6C4C-DFFE-4571-8F20-39753F146E93}|SchoolProjectASPNET.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22A6C4C-DFFE-4571-8F20-39753F146E93}|SchoolProjectASPNET.csproj|c:\\temp\\ncastaneda\\projects\\schoolprojectaspnet\\schoolprojectaspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A22A6C4C-DFFE-4571-8F20-39753F146E93}|SchoolProjectASPNET.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22A6C4C-DFFE-4571-8F20-39753F146E93}|SchoolProjectASPNET.csproj|c:\\temp\\ncastaneda\\projects\\schoolprojectaspnet\\schoolprojectaspnet\\views\\alumnos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A22A6C4C-DFFE-4571-8F20-39753F146E93}|SchoolProjectASPNET.csproj|solutionrelative:views\\alumnos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Temp\\ncastaneda\\Projects\\SchoolProjectASPNET\\SchoolProjectASPNET\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Temp\\ncastaneda\\Projects\\SchoolProjectASPNET\\SchoolProjectASPNET\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T22:05:06.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Temp\\ncastaneda\\Projects\\SchoolProjectASPNET\\SchoolProjectASPNET\\Views\\Alumnos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Alumnos\\Create.cshtml",
+              "ToolTip": "C:\\Temp\\ncastaneda\\Projects\\SchoolProjectASPNET\\SchoolProjectASPNET\\Views\\Alumnos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Alumnos\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T21:55:35.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Temp\\ncastaneda\\Projects\\SchoolProjectASPNET\\SchoolProjectASPNET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Temp\\ncastaneda\\Projects\\SchoolProjectASPNET\\SchoolProjectASPNET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T21:55:17.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
